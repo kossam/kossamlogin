@@ -12,7 +12,7 @@ Login System for a group of users. Includes the following functionalities:
                                                3. Exit and get back to the home page
 
 
-*Installation instructions
+*Installation instructions*
 1.Copy the Login folder and paste it in this directory xampp/htdocs
 1.We have a database by the name registration and a table for users. 
 2.Simply create a database in xamp and name it registration and import the (registration.sql) database file.
